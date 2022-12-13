@@ -3,12 +3,12 @@
 <h3 align="center">C/C++ developer from Russia</h3>
 <h3 align="center">My stack is</h3>
 
-<h3>![git](https://user-images.githubusercontent.com/80957111/207208458-1982c38b-43d3-4766-8101-ef78e63d4404.svg) </h3>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![c](https://user-images.githubusercontent.com/80957111/207208471-f4da101c-d1af-43db-b4a2-ee5af2babd7e.svg) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![cplusplus](https://user-images.githubusercontent.com/80957111/207208480-89fb8e7d-a583-4d78-8c1b-a6dec79f3345.svg) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![rust](https://user-images.githubusercontent.com/80957111/207208489-df48c74b-3847-4fbb-b11d-b35d7fc94357.svg)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![postgresql](https://user-images.githubusercontent.com/80957111/207208498-d37f4d43-df51-442d-8103-fef72124f9a7.svg)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
